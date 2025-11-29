@@ -19,11 +19,5 @@ A Python-focused developer motivated by learning, building, and collaborating. I
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliRezaSamadifar&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRezaSamadifar&layout=compact&theme=default)
-
----
-
 ## 📫 Contact
 If you're interested in connecting, collaborating, or discussing opportunities, feel free to reach out.
