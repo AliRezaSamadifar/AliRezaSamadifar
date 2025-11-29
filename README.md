@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm AliReza Samadifar 👋
 
-<!--
-**AliRezaSamadifar/AliRezaSamadifar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Python-focused developer motivated by learning, building, and collaborating. I’ve completed multiple courses and workshops in Python and continue to refine my skills through hands-on projects. I’m especially interested in joining startup teams where I can contribute, grow, and work on meaningful products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+**Languages:** Python  
+**Tools & Environments:** Git, GitHub, VS Code  
+**Interests:** Backend development, automation, scripting, clean and maintainable code
+
+---
+
+## 📌 What I'm Working On
+- Strengthening my Python fundamentals  
+- Building practical side projects  
+- Learning development best practices  
+- Preparing to collaborate with startup teams and contribute to real-world products
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliRezaSamadifar&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRezaSamadifar&layout=compact&theme=default)
+
+---
+
+## 📫 Contact
+If you're interested in connecting, collaborating, or discussing opportunities, feel free to reach out.
